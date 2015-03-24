@@ -12,12 +12,13 @@ relative_permalinks: true
 
 # Setup
 title:               Reage
+author:              Reage
 tagline:             ''
 description:         ''
 url:                 http://www.ireage.com
 baseurl:             /
 paginate:            5
 github:				 https://github.com/rentiansheng
-rss:				 http://www.ireage.com/atom.xml
+rss:				 /atom.xml
 # Custom vars
 version:             1.5.0
